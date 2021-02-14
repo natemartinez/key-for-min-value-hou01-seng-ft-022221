@@ -8,5 +8,7 @@ name_hash.each do |key, value|
   if value <= value_to_compare
     value_to_compare = value 
     key_to_store = key 
-    
+  end
+end
+v
 end
