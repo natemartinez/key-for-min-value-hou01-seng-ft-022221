@@ -10,5 +10,5 @@ name_hash.each do |key, value|
     key_to_store = key 
   end
 end
-v
+key_to_store
 end
