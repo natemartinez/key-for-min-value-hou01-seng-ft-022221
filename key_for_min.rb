@@ -6,5 +6,6 @@ value_to_compare = 1000000
 key_to_store = nil 
 name_hash.each do |key, value|
   if value <= value_to_compare
+    value_to_compare = value 
     
 end
